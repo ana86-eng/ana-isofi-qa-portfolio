@@ -34,11 +34,11 @@ A scalable, end-to-end framework built with Cypress that validates core user flo
 A collection of structured **Postman** tests focused on validating core business logic and data integrity for banking web services.
 
 * **Skills Demonstrated:** **API Testing**, JSON schema validation, status code checks, handling authentication, and **web services validation**.
-* **View Project Details and Code → [Link to your API Testing Project Repository]**
+* **View Project Details and Code → https://github.com/ana86-eng/Exploratory-Testing-Artifacts
 
 ### 3. Comprehensive Bug Report Showcase (e.g., `Exploratory-Testing-Artifacts`)
 
 A collection of detailed, high-impact bug reports documented using professional QA standards.
 
 * **Skills Demonstrated:** **Bug Reporting**, **Exploratory Testing**, **detail-oriented** approach, and effective communication with **non-technical stakeholders**.
-* **View Project Details and Code → [Link to your Bug Report Repository]**
+* **View Project Details and Code → https://github.com/ana86-eng/Exploratory-Testing-Artifacts
